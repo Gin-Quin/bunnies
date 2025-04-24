@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"target": "ES2022",
+		"strict": true,
+		"moduleResolution": "bundler",
+		"noImplicitAny": true,
+		"allowUnreachableCode": false,
+		"exactOptionalPropertyTypes": true,
+		"verbatimModuleSyntax": true,
+		"noImplicitOverride": true,
+		"noImplicitThis": true,
+		"noUncheckedIndexedAccess": true
+	},
+	"include": ["source", "tests"],
+	"exclude": ["node_modules"]
+}

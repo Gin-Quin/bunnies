@@ -1,0 +1,8 @@
+{
+	"devDependencies": {
+		"typescript": "latest",
+		"@types/bun": "latest",
+		"@biomejs/biome": "latest",
+		"@maverick-js/signals": "^5.11.5"
+	}
+}

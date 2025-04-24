@@ -1,0 +1,9 @@
+{
+	"name": "@bunnies/core",
+	"module": "library/index.ts",
+	"type": "module",
+	"private": true,
+	"dependencies": {
+		"@bunnies/signals": "workspace:*"
+	}
+}

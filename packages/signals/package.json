@@ -1,0 +1,12 @@
+{
+	"name": "@bunnies/signals",
+	"module": "library/index.ts",
+	"type": "module",
+	"exports": {
+		".": "./library/index.ts"
+	},
+	"private": true,
+	"scripts": {
+		"build": "bun build ./library/* --outdir ./build --minify --sourcemap"
+	}
+}
