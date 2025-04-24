@@ -1,4 +1,4 @@
-# Bunny
+# Bunnies
 
 Bunnies is a concept of a frontend framework based on signals, without any compilation step.
 

@@ -16,7 +16,7 @@ function renderHTML(component: Component): string {
 }
 
 /**
- * Binds a Bunny's component to an HTML element.
+ * Binds a Bunnies's component to an HTML element.
  */
 function bind(component: Component, element: Element) {
 	for (const name in component.attributes) {
